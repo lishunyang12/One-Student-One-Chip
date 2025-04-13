@@ -1,9 +1,9 @@
-# "一生一芯"工程项目
+# "One Student One Chip" Engineering Project
 
-这是"一生一芯"的工程项目. 通过运行
+Running
 ```bash
 bash init.sh subproject-name
 ```
-进行初始化, 具体请参考[实验讲义][lecture note].
+to initialize, more details to refer to on lecture note.
 
 [lecture note]: https://ysyx.oscc.cc/docs/
